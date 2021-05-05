@@ -1,0 +1,11 @@
+pymongo
+fastapi
+mongoengine
+pydantic
+typing
+uvicorn
+PyJWT
+python-multipart
+celery
+passlib
+celery
