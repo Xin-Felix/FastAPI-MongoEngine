@@ -2,9 +2,14 @@
 
 ## 使用docker启动
 
+学了学Python,用fastapi构建了一套快速开发的框子,默认使用docker启动,使用的是docker中的环境变量配置的数据库,当前框子使用的是mongodb数据库,这是我根据我之前Java-springboot的框子改的,如果之前做java开发,看现在这个框子应该很舒服.
+
+
 ### 启动方式
 
 `docker-compose up -d`
+
+
 
 ### 启动类在 `main.py` 中 ,初始类在`router.py`,没有数据库可以禁用
 
